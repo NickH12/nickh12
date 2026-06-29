@@ -116,6 +116,9 @@ A production-grade cloud setup with full GitOps-driven continuous deployment.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nick%20Haimov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-haimov)
+
+<br/>
+
 [![Email](https://img.shields.io/badge/Email-nickhaimov%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickhaimov@gmail.com)
 
 </div>
