@@ -105,15 +105,6 @@ A production-grade cloud setup with full GitOps-driven continuous deployment.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nickhaimov&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhaimov&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
 ## 📜 Certifications (In Progress)
 
 - 🏅 **AWS Certified Solutions Architect – Associate** *(Stephane Maarek, Udemy — near completion)*
