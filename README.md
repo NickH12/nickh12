@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185fa5&height=200&section=header&text=Nick%20Haimov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Computer%20Science%20Graduate&descAlignY=55&descSize=18" width="100%"/>
 
-# 👋 Hey, I'm Nick
+# Hey there, I'm Nick! 👋
 
 **Backend developer** passionate about scalable systems, clean architecture, and solving hard problems under pressure.  
 B.Sc. in Computer Science · Holon Institute of Technology (HIT) · GPA: 90
@@ -19,6 +19,7 @@ B.Sc. in Computer Science · Holon Institute of Technology (HIT) · GPA: 90
 ## 🧠 About Me
 
 - 🎓 **B.Sc. Computer Science** — Holon Institute of Technology (HIT), GPA: 90
+- 🏆 **Dean's Excellence Award** — Top of class, 3rd year
 - 🔧 **Focused on:** Backend APIs, Microservices, Cloud Infrastructure & DevOps
 - 🌍 **Languages:** Hebrew (Native) · English (Fluent) · Russian (Intermediate)
 - 📍 **Based in:** Rishon LeZion, Israel
@@ -105,9 +106,12 @@ A production-grade cloud setup with full GitOps-driven continuous deployment.
 
 ---
 
-## 📜 Certifications (In Progress)
+## 🏅 Certifications & Awards
 
-- 🏅 **AWS Certified Solutions Architect – Associate** *(Stephane Maarek, Udemy — near completion)*
+| | |
+|---|---|
+| 🏆 | **Dean's Excellence Award** — Holon Institute of Technology, 3rd Year |
+| ☁️ | **AWS Certified Solutions Architect – Associate** *(Stephane Maarek, Udemy — near completion)* |
 
 ---
 
@@ -116,6 +120,7 @@ A production-grade cloud setup with full GitOps-driven continuous deployment.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nick%20Haimov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-haimov)
+
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-nickhaimov%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickhaimov@gmail.com)
