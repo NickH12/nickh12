@@ -51,6 +51,18 @@ A production-grade backend system for managing the full job application lifecycl
 
 ---
 
+### End-to-End Cloud Infrastructure & GitOps Pipeline
+`Terraform` `GCP` `Kubernetes` `ArgoCD` `NGINX` &nbsp; [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NickH12/CloudGCP)
+
+Provisioned and operated a complete cloud-native infrastructure from scratch, covering everything from raw compute to automated deployment pipelines. The goal was to build something that a real engineering team could hand off and run - not just a demo.
+
+- Wrote **Terraform** modules to provision GCP infrastructure including VPC networking, firewall rules, compute instances, and IAM bindings - all versioned and reproducible
+- Deployed containerized workloads on **Kubernetes**, configuring namespaces, deployments, services, and health checks for reliable operation
+- Set up **ArgoCD** to watch the Git repository and automatically sync cluster state with every merge - eliminating manual deployment steps entirely
+- Configured **NGINX Ingress Controller** for routing traffic across services, with separate ingress rules for the application and ArgoCD
+
+---
+
 ### Enterprise Cybersecurity Management System
 `Python` `FastAPI` `MySQL` `Docker`
 
@@ -60,18 +72,6 @@ Built a backend management platform for enterprise security operations, with a s
 - Architected a normalized **MySQL** relational schema optimized for the read-heavy query patterns typical of security dashboards and audit trails
 - Structured the API around role-based access logic, ensuring sensitive operations are gated and auditable
 - Containerized with **Docker** for reproducible deployments across environments
-
----
-
-### End-to-End Cloud Infrastructure & GitOps Pipeline
-`Terraform` `GCP` `Kubernetes` `ArgoCD` `NGINX`
-
-Provisioned and operated a complete cloud-native infrastructure from scratch, covering everything from raw compute to automated deployment pipelines. The goal was to build something that a real engineering team could hand off and run - not just a demo.
-
-- Wrote **Terraform** modules to provision GCP infrastructure including VPC networking, firewall rules, compute instances, and IAM bindings - all versioned and reproducible
-- Deployed containerized workloads on **Kubernetes**, configuring namespaces, deployments, services, and health checks for reliable operation
-- Set up **ArgoCD** to watch the Git repository and automatically sync cluster state with every merge - eliminating manual deployment steps entirely
-- Configured **NGINX Ingress Controller** for routing traffic across services, with separate ingress rules for the application and ArgoCD
 
 ---
 
