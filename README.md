@@ -28,7 +28,7 @@ B.Sc. in Computer Science · Holon Institute of Technology (HIT) · GPA: 90
 ## Featured Projects
 
 ### Bulk Data Importer - Async Microservice
-`Python` `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker`
+`Python` `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker` &nbsp; [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NickH12/bulk-data-importer)
 
 Designed and built a production-grade asynchronous ingestion service capable of handling large-scale data uploads without degrading API responsiveness. The core challenge was decoupling the upload lifecycle from the processing pipeline - achieved by introducing a task queue layer between the API and the workers.
 
@@ -36,6 +36,18 @@ Designed and built a production-grade asynchronous ingestion service capable of 
 - Designed a **Redis**-backed queue to manage job state, retry logic, and worker coordination across concurrent uploads
 - Modeled the **PostgreSQL** schema to support partial imports, failure tracking, and resumable jobs - with strict input validation enforced through Pydantic at every boundary
 - Containerized the full stack with **Docker Compose**, enabling consistent local development and straightforward deployment
+
+---
+
+### Job Search Management Dashboard
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `JWT` `Docker` &nbsp; [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NickH12/JobTracker)
+
+A production-grade backend system for managing the full job application lifecycle. Built with a focus on clean architecture, security, and scalability - not just a CRUD app, but a structured platform that tracks companies, applications, and statuses with strict per-user data isolation.
+
+- Architected JWT-based authentication with register, login, and protected routes - per-user data isolation enforced at the query level so users never access each other's data
+- Designed a normalized **PostgreSQL** schema with **SQLAlchemy** ORM; managed schema evolution through **Alembic** migrations and enforced input contracts with Pydantic
+- Applied **Repository Pattern** to decouple data access from business logic, enabling clean separation of concerns and straightforward unit testing
+- Exposed a self-documenting REST API via FastAPI's auto-generated OpenAPI/Swagger interface
 
 ---
 
@@ -48,18 +60,6 @@ Built a backend management platform for enterprise security operations, with a s
 - Architected a normalized **MySQL** relational schema optimized for the read-heavy query patterns typical of security dashboards and audit trails
 - Structured the API around role-based access logic, ensuring sensitive operations are gated and auditable
 - Containerized with **Docker** for reproducible deployments across environments
-
----
-
-### Full-Stack Web Application
-`Node.js` `Express` `MongoDB` `Docker`
-
-Developed a containerized full-stack application with a robust REST API at its core. The project was built to handle real-world complexity - multi-resource routing, stateful authentication, and a flexible data layer that could evolve without schema migrations.
-
-- Designed and implemented a **REST API** with Express supporting nested routing, middleware chaining, and full CRUD operations across multiple resource types
-- Built an encrypted **session-based authentication** system, handling registration, login, token management, and route protection without relying on third-party auth services
-- Chose **MongoDB** as the data layer for its schema flexibility, enabling rapid iteration on data models without downtime or migrations
-- Packaged the entire application in **Docker**, with environment configuration managed through `.env` files for clean separation between dev and production
 
 ---
 
@@ -110,7 +110,6 @@ Provisioned and operated a complete cloud-native infrastructure from scratch, co
 ---
 
 ## Certifications
-
 
 **AWS Certified Solutions Architect – Associate** *(Stephane Maarek, Udemy - near completion)*
 
