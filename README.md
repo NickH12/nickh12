@@ -5,7 +5,7 @@
 # Hey there, I'm Nick! 👋
 
 **Fullstack developer** passionate about scalable systems, clean architecture, and solving hard problems under pressure.
-B.Sc. in Computer Science · Holon Institute of Technology (HIT) · GPA: 90
+B.Sc. in Computer Science · Holon Institute of Technology (HIT) · GPA: 89
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickhaimov)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickhaimov@gmail.com)
@@ -17,7 +17,7 @@ B.Sc. in Computer Science · Holon Institute of Technology (HIT) · GPA: 90
 
 ## About Me
 
-- 🎓 **B.Sc. Computer Science** - Holon Institute of Technology (HIT), GPA: 90
+- 🎓 **B.Sc. Computer Science** - Holon Institute of Technology (HIT), GPA: 89
 - 🏆 **Dean's Excellence Award** - 3rd year
 - Focused on Backend APIs, Microservices, Cloud Infrastructure & DevOps
 - Former combat soldier (MAGAV Border Police) - discipline, pressure & teamwork are in my DNA
