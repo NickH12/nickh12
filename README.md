@@ -20,8 +20,8 @@ B.Sc. in Computer Science · Holon Institute of Technology (HIT) · GPA: 90
 - 🎓 **B.Sc. Computer Science** - Holon Institute of Technology (HIT), GPA: 90
 - 🏆 **Dean's Excellence Award** - 3rd year
 - Focused on Backend APIs, Microservices, Cloud Infrastructure & DevOps
-- Hebrew (Native) · English (Fluent) · Russian (Intermediate)
 - Former combat soldier (MAGAV Border Police) - discipline, pressure & teamwork are in my DNA
+- Hebrew (Native) · English (Fluent) · Russian (Intermediate)
 
 ---
 
