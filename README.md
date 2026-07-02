@@ -21,7 +21,6 @@ B.Sc. in Computer Science · Holon Institute of Technology (HIT) · GPA: 90
 - 🏆 **Dean's Excellence Award** - 3rd year
 - Focused on Backend APIs, Microservices, Cloud Infrastructure & DevOps
 - Hebrew (Native) · English (Fluent) · Russian (Intermediate)
-- Based in Israel
 - Former combat soldier (MAGAV Border Police) - discipline, pressure & teamwork are in my DNA
 
 ---
@@ -110,7 +109,7 @@ Provisioned and operated a complete cloud-native infrastructure from scratch, co
 
 ---
 
-## Certifications & Awards
+## Certifications
 
 
 **AWS Certified Solutions Architect – Associate** *(Stephane Maarek, Udemy - near completion)*
