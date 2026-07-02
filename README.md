@@ -113,7 +113,6 @@ Provisioned and operated a complete cloud-native infrastructure from scratch, co
 ## Certifications & Awards
 
 | | |
-|---|---|
 | ☁️ | **AWS Certified Solutions Architect – Associate** *(Stephane Maarek, Udemy - near completion)* |
 
 ---
