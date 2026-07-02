@@ -64,14 +64,14 @@ Built a backend management platform for enterprise security operations, with a s
 ---
 
 ### End-to-End Cloud Infrastructure & GitOps Pipeline
-`Terraform` `GCP` `Kubernetes` `ArgoCD` `Traefik`
+`Terraform` `GCP` `Kubernetes` `ArgoCD` `NGINX`
 
 Provisioned and operated a complete cloud-native infrastructure from scratch, covering everything from raw compute to automated deployment pipelines. The goal was to build something that a real engineering team could hand off and run - not just a demo.
 
 - Wrote **Terraform** modules to provision GCP infrastructure including VPC networking, firewall rules, compute instances, and IAM bindings - all versioned and reproducible
 - Deployed containerized workloads on **Kubernetes**, configuring namespaces, deployments, services, and health checks for reliable operation
 - Set up **ArgoCD** to watch the Git repository and automatically sync cluster state with every merge - eliminating manual deployment steps entirely
-- Configured **Traefik** as the ingress controller to handle routing, TLS termination, and traffic management across services
+- Configured **NGINX Ingress Controller** for routing traffic across services, with separate ingress rules for the application and ArgoCD
 
 ---
 
